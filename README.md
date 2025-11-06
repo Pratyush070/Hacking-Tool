@@ -1,9 +1,5 @@
 ### All in One Hacking tool For Hackers🥇
 
-#### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE](https://youtu.be/BsFhpIDcd9I) or use Docker
-
-## Update Available V1.2.0 🚀 
-
 - [x] Added New Tools 
     - [x] Reverse Engineering
     - [x] RAT Tools
@@ -275,9 +271,5 @@ Enter the options and continue.
 - [ ] Add Tools for CTF
 - [ ] Want to do automatic 
 
-##### Your Favourite Tool is not in hackingtool or Suggestions Please [CLICK HERE](https://forms.gle/b235JoCKyUq5iM3t8)
-![Z4nzu's github stats](https://github-readme-stats.vercel.app/api?username=Z4nzu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-#### Don't Forgot to share with Your Friends 
-### The new Update get will soon stay updated
 #### Thank you..!!
